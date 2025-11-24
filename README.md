@@ -513,8 +513,5 @@ X_processed
 * Release_Year
 * Release_Month
 
-   BONUS TASK
-Since it is your first week of ML, it is okay if you do not proceed to this section, however, if you feel adventureous, you can explore a classification model to predict whether a product is a GPU or a CPU based on the other independent variables.
-     Compare the perfomance of a Random Forest Classifier with that of a Logistic Regression Model.
 
 
